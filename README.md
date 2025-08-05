@@ -8,10 +8,68 @@
 - A generic layer pruning method for signal modulation recognition deep learning models, IEEE TCCN 2024
 - An Efficient Federated Automatic Modulation Recognition Scheme with Adaptive Model Pruning, IEEE Sensors Journal 2025
 - An ensemble automatic modulation classification model with weight pruning and data preprocessing
-- 
+- A Pruning Method Combined with Resilient Training to Improve the Adversarial Robustness of Automatic Modulation Classification Models, Mobile Networks and Applications, 2024
+- Radio signal modulation recognition method based on deep learning model pruning, Applied Sciences, 2022
+- LightAMC: Lightweight automatic modulation classification via deep learning and compressive sensing, IEEE TVT 2020
+- Automatic modulation recognition: An FPGA implementation
+- Radar Intra-Pulse Modulation Fast Perception via Adaptive Random Magnitude Channel Pruning and Knowledge Distillation
+- Neural network compression with feedback magnitude pruning for automatic modulation classification
+- PRUNING-BASED HYBRID NEURAL NETWORK FOR AUTOMATIC MODULATION CLASSIFICATION IN COGNITIVE RADIO NETWORKS
+- Interpretable analysis and pruning of modulation recognition network based on Deep Learning
+- A Mixed Pruning Method for Signal Modulation Recognition Based on Convolutional Neural Network
+- Lightweight Automatic Modulation Classification Method Using Filter Pruning via Geometric Median
+- Modulation recognition based on lightweight residual network via hybrid pruning
+- Edge-Enabled Modulation Classification in Internet of Underwater Things Based on Network Pruning and Ensemble Learning
+- Automatic modulation recognition for radar signals via multi-branch ACSE networks
+- Automatic Modulation Recognition for Radar Signal Based on Multi-level and Multi-scale Feature
+- Deep neural network goes lighter: A case study of deep compression techniques on automatic RF modulation recognition for Beyond 5G networks
+- Edge-Efficient Deep Learning Models for Automatic Modulation Classification: A Performance Analysis
+- Adversarial Robustness of Distilled and Pruned Deep Learning-based Wireless Classifiers
+- A Novel Layer Pruning Method Based on Graph Structure of Feature Representations for Specific Emitter Identification
 
 ## Knowledge Distillation
+- Automatic Modulation Classification with Neural Networks via Knowledge Distillation
+- 
 
 ## Manual Structure Design
+- An efficient deep learning model for automatic modulation recognition based on parameter estimation and transformation, IEEE Communications Letters 2021
+- Accuracy-Aware Low-Complexity Deep Learning Models for Automatic Modulation Recognition
+- Lightweight Multi-Channel Gated Recurrent Deep Neural Network for Automatic Modulation Recognition in Spatial Cognitive Radio
+- A Lightweight Deep Learning Model for Automatic Modulation Classification using Dual Path Deep Residual Shrinkage Network
+- Lightweight automatic modulation classification based on decentralized learning
+- Lightweight Modulation Recognition Based on Convolutional and Recurrent Hybrid Model
+- Accelerating Transformer Architectures for Automatic Modulation Classification via Gated Activation Patch Selection
+- Adaptive design and implementation of automatic modulation recognition accelerator
+- Automatic modulation classification using ResNeXt-GRU with deep feature fusion
+- Mobilenetv3-based automatic modulation recognition for low-latency spectrum sensing
+- Rfnet: Fast and efficient neural network for modulation classification of radio frequency signals
+- BacalhauNet: A tiny CNN for lightning-fast modulation classification
+- MobileRaT: a lightweight radio transformer method for automatic modulation classification in drone communication systems
+- Lightweight automatic modulation classification based on efficient convolution and graph sparse attention in low-resource scenarios
+- A low-complexity deep learning model for modulation classification and detection of radar signals
+- MAE‐SigNet: An effective network for automatic modulation recognition
+- Efficient Hybrid Neural Network for Automatic Modulation Recognition
+- A lightweight deep learning model for automatic modulation classification using residual learning and squeeze–excitation blocks
+- Efficient automatic modulation classification in non-terrestrial networks with snn-based transformer
+- An ultra lightweight neural network for automatic modulation classification in drone communications
+- AMC-IoT: Automatic modulation classification using efficient convolutional neural networks for low powered IoT devices
+- Mobileamct: A lightweight mobile automatic modulation classification transformer in drone communication systems
+- A lightweight CNN architecture for automatic modulation classification
+- A novel lightweight grouped gated recurrent unit for automatic modulation classification
+- TinyRadio: Tiny Neural Networks for Fingerprinting Radio Frequency Signals
+
 
 ## Network Architecture Search
+
+## Other
+- Deep sparse learning for automatic modulation classification using Recurrent Neural Networks
+- Deep neural network compression technique towards efficient digital signal modulation recognition in edge device
+- Sparsely connected CNN for efficient automatic modulation recognition
+- Lightweight Network for Modulation Recognition Based on Stochastic Pruning-Asymmetric Quantization
+- Quantization and Pruning of Convolutional Neural Networks for Efficient FPGA Implementation of Digital Modulation Detection Firmware
+- Automatic Modulation Recognition via Pruned LSTM-GRU with Multi-Head Attention
+- A novel training strategy for deep learning model compression applied to automatic modulation classification
+- Modulation recognition network compression based on a randomly perturbation convolutional kernel activation mapping method
+- Boosting Automatic Modulation Recognition in Wireless Communications With Frequency Encoder
+- Low-Resource Scenario Classification Through Model Pruning Toward Refined Edge Intelligence
+- 
