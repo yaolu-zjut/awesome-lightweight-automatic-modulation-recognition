@@ -45,6 +45,8 @@
 - FedBKD: Heterogenous federated learning via bidirectional knowledge distillation for modulation classification in IoT-edge system
 - Knowledge Distillation For Deep Learning Based Automatic Modulation Classification
 - MobileNet and knowledge distillation-based automatic scenario recognition method in vehicle-to-vehicle systems
+- Attention-based adversarial robust distillation in radio signal classifications for low-power IoT devices
+- 
 
 ## Manual Structure Design
 - An efficient deep learning model for automatic modulation recognition based on parameter estimation and transformation, IEEE Communications Letters 2021
