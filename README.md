@@ -83,4 +83,5 @@
 - DTSG-net: Dynamic time series graph neural network and it's application in modulation recognition
 - CSCNN: Lightweight modulation recognition model for mobile multimedia intelligent information processing
 - A lightweight modulation classification network resisting white box gradient attacks
+- Automatic composite-modulation classification using ultra lightweight deep-learning network based on cyclic-paw-print
 - 
