@@ -76,6 +76,8 @@
 - TinyRadio: Tiny Neural Networks for Fingerprinting Radio Frequency Signals
 - Lightweight network design based on ResNet structure for modulation recognition
 - Multi-channel convolutional distilled transformer for automatic modulation classification
+- A lightweight deep learning architecture for automatic modulation classification of wireless internet of things
+- 
 
 
 ## Network Architecture Search
