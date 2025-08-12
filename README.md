@@ -31,6 +31,7 @@
 - GLR-SEI: Green and low resource specific emitter identification based on complex networks and fisher pruning
 - A lightweight decentralized-learning-based automatic modulation classification method for resource-constrained edge devices
 - Lightweight network and model aggregation for automatic modulation classification in wireless communications
+- Decentralized automatic modulation classification method based on lightweight neural network
 - 
 
 ## Knowledge Distillation
@@ -79,4 +80,5 @@
 - Modulation recognition network compression based on a randomly perturbation convolutional kernel activation mapping method
 - Boosting Automatic Modulation Recognition in Wireless Communications With Frequency Encoder
 - Low-Resource Scenario Classification Through Model Pruning Toward Refined Edge Intelligence
+- DTSG-net: Dynamic time series graph neural network and it's application in modulation recognition
 - 
