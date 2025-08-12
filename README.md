@@ -34,7 +34,7 @@
 - Decentralized automatic modulation classification method based on lightweight neural network
 - An efficient specific emitter identification method based on complex-valued neural networks and network compression
 - Lightweight deep learning model for automatic modulation classification in cognitive radio networks
-- 
+- MCNet: An efficient CNN architecture for robust automatic modulation classification
 
 ## Knowledge Distillation
 - Automatic Modulation Classification with Neural Networks via Knowledge Distillation
