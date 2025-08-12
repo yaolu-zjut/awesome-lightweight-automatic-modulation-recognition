@@ -32,6 +32,7 @@
 - A lightweight decentralized-learning-based automatic modulation classification method for resource-constrained edge devices
 - Lightweight network and model aggregation for automatic modulation classification in wireless communications
 - Decentralized automatic modulation classification method based on lightweight neural network
+- An efficient specific emitter identification method based on complex-valued neural networks and network compression
 - 
 
 ## Knowledge Distillation
