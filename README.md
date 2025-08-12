@@ -82,4 +82,5 @@
 - Low-Resource Scenario Classification Through Model Pruning Toward Refined Edge Intelligence
 - DTSG-net: Dynamic time series graph neural network and it's application in modulation recognition
 - CSCNN: Lightweight modulation recognition model for mobile multimedia intelligent information processing
+- A lightweight modulation classification network resisting white box gradient attacks
 - 
