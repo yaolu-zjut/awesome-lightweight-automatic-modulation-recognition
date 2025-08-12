@@ -81,4 +81,5 @@
 - Boosting Automatic Modulation Recognition in Wireless Communications With Frequency Encoder
 - Low-Resource Scenario Classification Through Model Pruning Toward Refined Edge Intelligence
 - DTSG-net: Dynamic time series graph neural network and it's application in modulation recognition
+- CSCNN: Lightweight modulation recognition model for mobile multimedia intelligent information processing
 - 
