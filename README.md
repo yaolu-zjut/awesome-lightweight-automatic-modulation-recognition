@@ -87,3 +87,6 @@
 - A lightweight modulation classification network resisting white box gradient attacks
 - Automatic composite-modulation classification using ultra lightweight deep-learning network based on cyclic-paw-print
 - Sequential convolutional recurrent neural networks for fast automatic modulation classification
+
+## Quantification
+- A Methodology to Design Quantized Deep Neural Networks for Automatic Modulation Recognition
