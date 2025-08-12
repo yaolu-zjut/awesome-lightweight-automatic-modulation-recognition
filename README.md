@@ -86,4 +86,4 @@
 - CSCNN: Lightweight modulation recognition model for mobile multimedia intelligent information processing
 - A lightweight modulation classification network resisting white box gradient attacks
 - Automatic composite-modulation classification using ultra lightweight deep-learning network based on cyclic-paw-print
-- 
+- Sequential convolutional recurrent neural networks for fast automatic modulation classification
