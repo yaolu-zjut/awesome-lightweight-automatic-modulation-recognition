@@ -41,6 +41,10 @@
 - A knowledge distillation strategy for enhancing the adversarial robustness of lightweight automatic modulation classification models
 - Knowledge distillation based lightweight deep neural network for automatic modulation classification
 - Research on automatic modulation recognition of shortwave signals in few‐shot scenarios based on knowledge distillation
+- ClST: A convolutional transformer framework for automatic modulation recognition by knowledge distillation
+- FedBKD: Heterogenous federated learning via bidirectional knowledge distillation for modulation classification in IoT-edge system
+- Knowledge Distillation For Deep Learning Based Automatic Modulation Classification
+- MobileNet and knowledge distillation-based automatic scenario recognition method in vehicle-to-vehicle systems
 
 ## Manual Structure Design
 - An efficient deep learning model for automatic modulation recognition based on parameter estimation and transformation, IEEE Communications Letters 2021
@@ -69,6 +73,7 @@
 - A novel lightweight grouped gated recurrent unit for automatic modulation classification
 - TinyRadio: Tiny Neural Networks for Fingerprinting Radio Frequency Signals
 - Lightweight network design based on ResNet structure for modulation recognition
+- Multi-channel convolutional distilled transformer for automatic modulation classification
 
 
 ## Network Architecture Search
@@ -89,6 +94,9 @@
 - A lightweight modulation classification network resisting white box gradient attacks
 - Automatic composite-modulation classification using ultra lightweight deep-learning network based on cyclic-paw-print
 - Sequential convolutional recurrent neural networks for fast automatic modulation classification
+- Edge-Efficient Deep Learning Models for Automatic Modulation Classification: A Performance Analysis
+- A Novel Training Strategy for Deep Learning Model Compression Applied to Automatic Modulation Classification
+
 
 ## Quantification
 - A Methodology to Design Quantized Deep Neural Networks for Automatic Modulation Recognition
