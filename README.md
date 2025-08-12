@@ -28,6 +28,7 @@
 - A Novel Layer Pruning Method Based on Graph Structure of Feature Representations for Specific Emitter Identification
 - Ultralight convolutional neural network for automatic modulation classification in internet of unmanned aerial vehicles
 - Multilevel adaptive wavelet decomposition network based automatic modulation recognition: Exploiting time-frequency multiscale correlations
+- GLR-SEI: Green and low resource specific emitter identification based on complex networks and fisher pruning
 - 
 
 ## Knowledge Distillation
