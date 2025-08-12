@@ -38,7 +38,9 @@
 
 ## Knowledge Distillation
 - Automatic Modulation Classification with Neural Networks via Knowledge Distillation
-- 
+- A knowledge distillation strategy for enhancing the adversarial robustness of lightweight automatic modulation classification models
+- Knowledge distillation based lightweight deep neural network for automatic modulation classification
+- Research on automatic modulation recognition of shortwave signals in few‐shot scenarios based on knowledge distillation
 
 ## Manual Structure Design
 - An efficient deep learning model for automatic modulation recognition based on parameter estimation and transformation, IEEE Communications Letters 2021
