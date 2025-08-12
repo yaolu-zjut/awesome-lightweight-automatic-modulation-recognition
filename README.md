@@ -29,6 +29,7 @@
 - Ultralight convolutional neural network for automatic modulation classification in internet of unmanned aerial vehicles
 - Multilevel adaptive wavelet decomposition network based automatic modulation recognition: Exploiting time-frequency multiscale correlations
 - GLR-SEI: Green and low resource specific emitter identification based on complex networks and fisher pruning
+- A lightweight decentralized-learning-based automatic modulation classification method for resource-constrained edge devices
 - 
 
 ## Knowledge Distillation
