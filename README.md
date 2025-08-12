@@ -61,6 +61,7 @@
 - A lightweight CNN architecture for automatic modulation classification
 - A novel lightweight grouped gated recurrent unit for automatic modulation classification
 - TinyRadio: Tiny Neural Networks for Fingerprinting Radio Frequency Signals
+- Lightweight network design based on ResNet structure for modulation recognition
 
 
 ## Network Architecture Search
