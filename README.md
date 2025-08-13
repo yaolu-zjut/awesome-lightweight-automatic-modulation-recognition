@@ -12,6 +12,7 @@
 ### Mixed Pruning
 - Fcos: A two-stage recoverable model pruning framework for automatic modulation recognition, 2025
 
+### Other
 - An improved neural network pruning technology for automatic modulation classification in edge devices, IEEE TVT 2020
 - Channel pruning method for signal modulation recognition deep learning models, IEEE TCCN 2023
 - A pruning neural network for automatic modulation classification
