@@ -1,6 +1,15 @@
 # awesome-lightweight-automatic-modulation-recognition
 
 ## Model Pruning
+### Weight Pruning
+
+
+### Channel Pruning
+
+### Layer Pruning
+
+### Mixed Pruning
+
 - An improved neural network pruning technology for automatic modulation classification in edge devices, IEEE TVT 2020
 - Channel pruning method for signal modulation recognition deep learning models, IEEE TCCN 2023
 - A pruning neural network for automatic modulation classification
@@ -37,6 +46,14 @@
 - MCNet: An efficient CNN architecture for robust automatic modulation classification
 
 ## Knowledge Distillation
+
+### Single-Teacher Distillation
+
+### Multi-Teacher Distillation
+
+### Adversarial Distillation
+
+
 - Automatic Modulation Classification with Neural Networks via Knowledge Distillation
 - A knowledge distillation strategy for enhancing the adversarial robustness of lightweight automatic modulation classification models
 - Knowledge distillation based lightweight deep neural network for automatic modulation classification
@@ -80,7 +97,7 @@
 - 
 
 
-## Network Architecture Search
+## Neural Architecture Search
 - NAS-AMR: Neural architecture search-based automatic modulation recognition for integrated sensing and communication systems
 - Automatic modulation recognition using neural architecture search
 - Differentiable architecture search-based automatic modulation classification
