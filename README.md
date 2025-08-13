@@ -104,3 +104,6 @@
 
 ## Quantification
 - A Methodology to Design Quantized Deep Neural Networks for Automatic Modulation Recognition
+- Real-time automatic modulation classification
+- A novel training strategy for deep learning model compression applied to automatic modulation classification
+- Real-Time Automatic Modulation Recognition Based on FPGA
