@@ -81,6 +81,19 @@
 
 
 ## Network Architecture Search
+- NAS-AMR: Neural architecture search-based automatic modulation recognition for integrated sensing and communication systems
+- Automatic modulation recognition using neural architecture search
+- Differentiable architecture search-based automatic modulation classification
+- Lightweight automatic modulation classification via progressive differentiable architecture search
+- An automated modulation classification approach utilizing progressive neural architecture search
+- Few-Shot Automatic Modulation Classification Using Architecture Search and Knowledge Transfer in Radar–Communication Coexistence Scenarios
+- Progressive Differentiable Architecture Search Based Automatic Modulation Classification Method
+- Evolutionary optimization of residual neural network architectures for modulation classification
+- Balanced neural architecture search and its application in specific emitter identification
+- RDAS-RFFI: Robust Differentiable Architecture Search for Radio Frequency Fingerprint Identification
+- NASEI: Neural Architecture Search-Based Specific Emitter Identification Method
+- Balanced neural architecture search and optimization for specific emitter identification
+
 
 ## Other
 - Deep sparse learning for automatic modulation classification using Recurrent Neural Networks
