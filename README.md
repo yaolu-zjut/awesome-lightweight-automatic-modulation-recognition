@@ -54,18 +54,19 @@
 - Research on automatic modulation recognition of shortwave signals in few‐shot scenarios based on knowledge distillation, IET Communications 2025
 - ClST: A convolutional transformer framework for automatic modulation recognition by knowledge distillation, TWC 2024
 - FedBKD: Heterogenous federated learning via bidirectional knowledge distillation for modulation classification in IoT-edge system, JSTSP 2023
-- 
+- Attention-based adversarial robust distillation in radio signal classifications for low-power IoT devices, IOTJ 2022
 ### Multi-Teacher Distillation
 - Learn to defend: Adversarial multi-distillation for automatic modulation recognition models, TIFS 2024
 
 ### Adversarial Distillation
 - A knowledge distillation strategy for enhancing the adversarial robustness of lightweight automatic modulation classification models, IET Communications 2024
 - Learn to defend: Adversarial multi-distillation for automatic modulation recognition models, TIFS 2024
-
+- Attention-based adversarial robust distillation in radio signal classifications for low-power IoT devices, IOTJ 2022
+- 
 ### Other
 - Knowledge distillation based lightweight deep neural network for automatic modulation classification
 - Knowledge Distillation For Deep Learning Based Automatic Modulation Classification
-- Attention-based adversarial robust distillation in radio signal classifications for low-power IoT devices
+
   
 
 ## Manual Structure Design
