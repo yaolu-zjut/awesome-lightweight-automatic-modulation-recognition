@@ -65,7 +65,6 @@
 ### Other
 - Knowledge distillation based lightweight deep neural network for automatic modulation classification
 - Knowledge Distillation For Deep Learning Based Automatic Modulation Classification
-- MobileNet and knowledge distillation-based automatic scenario recognition method in vehicle-to-vehicle systems
 - Attention-based adversarial robust distillation in radio signal classifications for low-power IoT devices
   
 
