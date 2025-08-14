@@ -51,7 +51,8 @@
 ### Single-Teacher Distillation
 - Automatic Modulation Classification with Neural Networks via Knowledge Distillation
 - A knowledge distillation strategy for enhancing the adversarial robustness of lightweight automatic modulation classification models
-
+- Research on automatic modulation recognition of shortwave signals in few‐shot scenarios based on knowledge distillation
+- 
 ### Multi-Teacher Distillation
 
 ### Adversarial Distillation
@@ -61,7 +62,6 @@
 
 
 - Knowledge distillation based lightweight deep neural network for automatic modulation classification
-- Research on automatic modulation recognition of shortwave signals in few‐shot scenarios based on knowledge distillation
 - ClST: A convolutional transformer framework for automatic modulation recognition by knowledge distillation
 - FedBKD: Heterogenous federated learning via bidirectional knowledge distillation for modulation classification in IoT-edge system
 - Knowledge Distillation For Deep Learning Based Automatic Modulation Classification
