@@ -2,7 +2,7 @@
 
 ## Model Pruning
 ### Weight Pruning
-
+- An ensemble automatic modulation classification model with weight pruning and data preprocessing
 
 ### Channel Pruning
 
@@ -17,7 +17,6 @@
 - Channel pruning method for signal modulation recognition deep learning models, IEEE TCCN 2023
 - A pruning neural network for automatic modulation classification
 - An Efficient Federated Automatic Modulation Recognition Scheme with Adaptive Model Pruning, IEEE Sensors Journal 2025
-- An ensemble automatic modulation classification model with weight pruning and data preprocessing
 - A Pruning Method Combined with Resilient Training to Improve the Adversarial Robustness of Automatic Modulation Classification Models, Mobile Networks and Applications, 2024
 - Radio signal modulation recognition method based on deep learning model pruning, Applied Sciences, 2022
 - LightAMC: Lightweight automatic modulation classification via deep learning and compressive sensing, IEEE TVT 2020
