@@ -10,6 +10,7 @@
 - A generic layer pruning method for signal modulation recognition deep learning models, IEEE TCCN 2024
 - 
 ### Mixed Pruning
+- Modulation recognition based on lightweight residual network via hybrid pruning, ICCC 2021
 - Fcos: A two-stage recoverable model pruning framework for automatic modulation recognition, 2025
 
 ### Other
@@ -27,7 +28,6 @@
 - Interpretable analysis and pruning of modulation recognition network based on Deep Learning
 - A Mixed Pruning Method for Signal Modulation Recognition Based on Convolutional Neural Network
 - Lightweight Automatic Modulation Classification Method Using Filter Pruning via Geometric Median
-- Modulation recognition based on lightweight residual network via hybrid pruning
 - Edge-Enabled Modulation Classification in Internet of Underwater Things Based on Network Pruning and Ensemble Learning
 - Automatic modulation recognition for radar signals via multi-branch ACSE networks
 - Automatic Modulation Recognition for Radar Signal Based on Multi-level and Multi-scale Feature
