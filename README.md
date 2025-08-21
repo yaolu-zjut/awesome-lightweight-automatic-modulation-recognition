@@ -7,6 +7,8 @@
 - Automatic modulation recognition: An FPGA implementation, IEEE Communications Letters 2022
 - Neural network compression with feedback magnitude pruning for automatic modulation classification, ITU Journal on Future and Evolving Technologies 2022
 - Pruning-Based Hybrid Neural Network for Automatic Modulation Classification in Cognitive Radio Networks, Journal of Theoretical and Applied Information Technology，2024
+- Edge-Efficient Deep Learning Models for Automatic Modulation Classification: A Performance Analysis, IEEE WCNC 2024
+- Adversarial Robustness of Distilled and Pruned Deep Learning-based Wireless Classifiers, IEEE WCNC 2024
 
 
 ### Channel Pruning
@@ -34,8 +36,6 @@
 - Automatic modulation recognition for radar signals via multi-branch ACSE networks
 - Automatic Modulation Recognition for Radar Signal Based on Multi-level and Multi-scale Feature
 - Deep neural network goes lighter: A case study of deep compression techniques on automatic RF modulation recognition for Beyond 5G networks
-- Edge-Efficient Deep Learning Models for Automatic Modulation Classification: A Performance Analysis
-- Adversarial Robustness of Distilled and Pruned Deep Learning-based Wireless Classifiers
 - A Novel Layer Pruning Method Based on Graph Structure of Feature Representations for Specific Emitter Identification
 - Ultralight convolutional neural network for automatic modulation classification in internet of unmanned aerial vehicles
 - Multilevel adaptive wavelet decomposition network based automatic modulation recognition: Exploiting time-frequency multiscale correlations
@@ -49,7 +49,9 @@
 
 ## Knowledge Distillation
 
+
 ### Single-Teacher Distillation
+- Adversarial Robustness of Distilled and Pruned Deep Learning-based Wireless Classifiers, IEEE WCNC 2024
 - Automatic Modulation Classification with Neural Networks via Knowledge Distillation, Electronics 2024
 - A knowledge distillation strategy for enhancing the adversarial robustness of lightweight automatic modulation classification models, IET Communications 2024
 - Research on automatic modulation recognition of shortwave signals in few‐shot scenarios based on knowledge distillation, IET Communications 2025
@@ -65,6 +67,7 @@
 - Learn to defend: Adversarial multi-distillation for automatic modulation recognition models, TIFS 2024
 - Attention-based adversarial robust distillation in radio signal classifications for low-power IoT devices, IOTJ 2022
 ### Other
+- Edge-Efficient Deep Learning Models for Automatic Modulation Classification: A Performance Analysis, IEEE WCNC 2024
 
 
   
@@ -134,7 +137,6 @@
 - A lightweight modulation classification network resisting white box gradient attacks
 - Automatic composite-modulation classification using ultra lightweight deep-learning network based on cyclic-paw-print
 - Sequential convolutional recurrent neural networks for fast automatic modulation classification
-- Edge-Efficient Deep Learning Models for Automatic Modulation Classification: A Performance Analysis
 - A Novel Training Strategy for Deep Learning Model Compression Applied to Automatic Modulation Classification
 
 
@@ -145,3 +147,4 @@
 - Real-time automatic modulation classification
 - A novel training strategy for deep learning model compression applied to automatic modulation classification
 - Real-Time Automatic Modulation Recognition Based on FPGA
+- Edge-Efficient Deep Learning Models for Automatic Modulation Classification: A Performance Analysis， IEEE WCNC 2024
