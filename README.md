@@ -37,13 +37,24 @@
 
 
 ## Knowledge Distillation
-
-
 ### Single-Teacher Distillation
 - GLR-SEI: Green and low resource specific emitter identification based on complex networks and fisher pruning, IEEE Transactions on Emerging Topics in Computational Intelligence 2024
 - Adversarial Robustness of Distilled and Pruned Deep Learning-based Wireless Classifiers, IEEE WCNC 2024
+- Edge-Efficient Deep Learning Models for Automatic Modulation Classification: A Performance Analysis, IEEE WCNC 2024
 - Radar Intra-Pulse Modulation Fast Perception via Adaptive Random Magnitude Channel Pruning and Knowledge Distillation, IEEE Signal Processing Letters 2025
 - An efficient specific emitter identification method based on complex-valued neural networks and network compression, IEEE Journal on Selected Areas in Communications 2021
+
+
+
+### Multi-Teacher Distillation
+- Learn to defend: Adversarial multi-distillation for automatic modulation recognition models, TIFS 2024
+- 
+### Adversarial Distillation
+- A knowledge distillation strategy for enhancing the adversarial robustness of lightweight automatic modulation classification models, IET Communications 2024
+- Learn to defend: Adversarial multi-distillation for automatic modulation recognition models, TIFS 2024
+- Attention-based adversarial robust distillation in radio signal classifications for low-power IoT devices, IOTJ 2022
+
+### Other
 - Automatic Modulation Classification with Neural Networks via Knowledge Distillation, Electronics 2024
 - A knowledge distillation strategy for enhancing the adversarial robustness of lightweight automatic modulation classification models, IET Communications 2024
 - Research on automatic modulation recognition of shortwave signals in few‐shot scenarios based on knowledge distillation, IET Communications 2025
@@ -52,14 +63,7 @@
 - Attention-based adversarial robust distillation in radio signal classifications for low-power IoT devices, IOTJ 2022
 - Knowledge Distillation For Deep Learning Based Automatic Modulation Classification, ICEEI 2022
 - Knowledge distillation based lightweight deep neural network for automatic modulation classification, ICCC 2023
-### Multi-Teacher Distillation
-- Learn to defend: Adversarial multi-distillation for automatic modulation recognition models, TIFS 2024
-### Adversarial Distillation
-- A knowledge distillation strategy for enhancing the adversarial robustness of lightweight automatic modulation classification models, IET Communications 2024
-- Learn to defend: Adversarial multi-distillation for automatic modulation recognition models, TIFS 2024
-- Attention-based adversarial robust distillation in radio signal classifications for low-power IoT devices, IOTJ 2022
-### Other
-- Edge-Efficient Deep Learning Models for Automatic Modulation Classification: A Performance Analysis, IEEE WCNC 2024
+
 
 
   
