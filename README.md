@@ -18,6 +18,7 @@
 - An improved neural network pruning technology for automatic modulation classification in edge devices, IEEE TVT 2020
 - A Pruning Neural Network for Automatic Modulation Classification, International Conference on Dependable Systems and Their Applications 2021
 - A Pruning Method Combined with Resilient Training to Improve the Adversarial Robustness of Automatic Modulation Classification Models, Mobile Networks and Applications 2024
+- Radar Intra-Pulse Modulation Fast Perception via Adaptive Random Magnitude Channel Pruning and Knowledge Distillation, IEEE Signal Processing Letters 2025
 
 
 ### Layer Pruning
@@ -53,6 +54,7 @@
 
 ### Single-Teacher Distillation
 - Adversarial Robustness of Distilled and Pruned Deep Learning-based Wireless Classifiers, IEEE WCNC 2024
+- Radar Intra-Pulse Modulation Fast Perception via Adaptive Random Magnitude Channel Pruning and Knowledge Distillation, IEEE Signal Processing Letters 2025
 - An efficient specific emitter identification method based on complex-valued neural networks and network compression, IEEE Journal on Selected Areas in Communications 2021
 - Automatic Modulation Classification with Neural Networks via Knowledge Distillation, Electronics 2024
 - A knowledge distillation strategy for enhancing the adversarial robustness of lightweight automatic modulation classification models, IET Communications 2024
