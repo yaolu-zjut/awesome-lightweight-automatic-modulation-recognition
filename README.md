@@ -15,6 +15,7 @@
 - Channel pruning method for signal modulation recognition deep learning models, IEEE TCCN 2023
 - LightAMC: Lightweight Automatic Modulation Classification via Deep Learning and Compressive Sensing, IEEE TVT 2020
 - An efficient specific emitter identification method based on complex-valued neural networks and network compression, IEEE Journal on Selected Areas in Communications 2021
+- An improved neural network pruning technology for automatic modulation classification in edge devices, IEEE TVT, 2020
 
 
 ### Layer Pruning
@@ -25,7 +26,6 @@
 - Fcos: A two-stage recoverable model pruning framework for automatic modulation recognition, 2025
 
 ### Other
-- An improved neural network pruning technology for automatic modulation classification in edge devices, IEEE TVT 2020
 - A pruning neural network for automatic modulation classification
 - An Efficient Federated Automatic Modulation Recognition Scheme with Adaptive Model Pruning, IEEE Sensors Journal 2025
 - A Pruning Method Combined with Resilient Training to Improve the Adversarial Robustness of Automatic Modulation Classification Models, Mobile Networks and Applications, 2024
