@@ -26,17 +26,17 @@
 
 ### Layer Pruning
 - A generic layer pruning method for signal modulation recognition deep learning models, IEEE TCCN 2024
+- Radio signal modulation recognition method based on deep learning model pruning, Applied Sciences 2022
+- A Novel Layer Pruning Method Based on Graph Structure of Feature Representations for Specific Emitter Identification, IEEE TCCN 2025
 ### Mixed Pruning
 - Modulation recognition based on lightweight residual network via hybrid pruning, ICCC 2021
 - Fcos: A two-stage recoverable model pruning framework for automatic modulation recognition, arxiv 2025
 
 ### Other
-- Radio signal modulation recognition method based on deep learning model pruning, Applied Sciences, 2022
 - A Mixed Pruning Method for Signal Modulation Recognition Based on Convolutional Neural Network
 - Automatic modulation recognition for radar signals via multi-branch ACSE networks
 - Automatic Modulation Recognition for Radar Signal Based on Multi-level and Multi-scale Feature
 - Deep neural network goes lighter: A case study of deep compression techniques on automatic RF modulation recognition for Beyond 5G networks
-- A Novel Layer Pruning Method Based on Graph Structure of Feature Representations for Specific Emitter Identification
 - Ultralight convolutional neural network for automatic modulation classification in internet of unmanned aerial vehicles
 - Multilevel adaptive wavelet decomposition network based automatic modulation recognition: Exploiting time-frequency multiscale correlations
 - A lightweight decentralized-learning-based automatic modulation classification method for resource-constrained edge devices
