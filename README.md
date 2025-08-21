@@ -3,10 +3,10 @@
 ## Model Pruning
 ### Weight Pruning
 - An ensemble automatic modulation classification model with weight pruning and data preprocessing, University of British Columbia, Doctoral dissertation 2020
-- An Efficient Federated Automatic Modulation Recognition Scheme with Adaptive Model Pruning, IEEE Sensors Journal, 2025
+- An Efficient Federated Automatic Modulation Recognition Scheme with Adaptive Model Pruning, IEEE Sensors Journal 2025
 - Automatic modulation recognition: An FPGA implementation, IEEE Communications Letters 2022
 - Neural network compression with feedback magnitude pruning for automatic modulation classification, ITU Journal on Future and Evolving Technologies 2022
-- Pruning-Based Hybrid Neural Network for Automatic Modulation Classification in Cognitive Radio Networks, Journal of Theoretical and Applied Information Technology，2024
+- Pruning-Based Hybrid Neural Network for Automatic Modulation Classification in Cognitive Radio Networks, Journal of Theoretical and Applied Information Technology 2024
 - Edge-Efficient Deep Learning Models for Automatic Modulation Classification: A Performance Analysis, IEEE WCNC 2024
 - Adversarial Robustness of Distilled and Pruned Deep Learning-based Wireless Classifiers, IEEE WCNC 2024
 
@@ -15,11 +15,9 @@
 - Channel pruning method for signal modulation recognition deep learning models, IEEE TCCN 2023
 - LightAMC: Lightweight Automatic Modulation Classification via Deep Learning and Compressive Sensing, IEEE TVT 2020
 - An efficient specific emitter identification method based on complex-valued neural networks and network compression, IEEE Journal on Selected Areas in Communications 2021
-- An improved neural network pruning technology for automatic modulation classification in edge devices, IEEE TVT, 2020
+- An improved neural network pruning technology for automatic modulation classification in edge devices, IEEE TVT 2020
 - A Pruning Neural Network for Automatic Modulation Classification, International Conference on Dependable Systems and Their Applications 2021
-- A Pruning Method Combined with Resilient Training to Improve the Adversarial Robustness of Automatic Modulation Classification Models, Mobile Networks and Applications, 2024
-
-
+- A Pruning Method Combined with Resilient Training to Improve the Adversarial Robustness of Automatic Modulation Classification Models, Mobile Networks and Applications 2024
 
 
 ### Layer Pruning
@@ -27,7 +25,7 @@
 - 
 ### Mixed Pruning
 - Modulation recognition based on lightweight residual network via hybrid pruning, ICCC 2021
-- Fcos: A two-stage recoverable model pruning framework for automatic modulation recognition, 2025
+- Fcos: A two-stage recoverable model pruning framework for automatic modulation recognition, arxiv 2025
 
 ### Other
 - An Efficient Federated Automatic Modulation Recognition Scheme with Adaptive Model Pruning, IEEE Sensors Journal 2025
