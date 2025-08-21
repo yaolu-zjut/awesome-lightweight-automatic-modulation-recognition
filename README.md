@@ -10,6 +10,7 @@
 
 ### Channel Pruning
 - Channel pruning method for signal modulation recognition deep learning models, IEEE TCCN 2023
+- LightAMC: Lightweight Automatic Modulation Classification via Deep Learning and Compressive Sensing, IEEE TVT 2020
 
 ### Layer Pruning
 - A generic layer pruning method for signal modulation recognition deep learning models, IEEE TCCN 2024
@@ -24,7 +25,6 @@
 - An Efficient Federated Automatic Modulation Recognition Scheme with Adaptive Model Pruning, IEEE Sensors Journal 2025
 - A Pruning Method Combined with Resilient Training to Improve the Adversarial Robustness of Automatic Modulation Classification Models, Mobile Networks and Applications, 2024
 - Radio signal modulation recognition method based on deep learning model pruning, Applied Sciences, 2022
-- LightAMC: Lightweight automatic modulation classification via deep learning and compressive sensing, IEEE TVT 2020
 - Automatic modulation recognition: An FPGA implementation
 - Radar Intra-Pulse Modulation Fast Perception via Adaptive Random Magnitude Channel Pruning and Knowledge Distillation
 - Neural network compression with feedback magnitude pruning for automatic modulation classification
