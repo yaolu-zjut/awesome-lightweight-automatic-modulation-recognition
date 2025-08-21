@@ -6,7 +6,8 @@
 - An Efficient Federated Automatic Modulation Recognition Scheme with Adaptive Model Pruning, IEEE Sensors Journal, 2025
 - Automatic modulation recognition: An FPGA implementation, IEEE Communications Letters 2022
 - Neural network compression with feedback magnitude pruning for automatic modulation classification, ITU Journal on Future and Evolving Technologies 2022
-- 
+- Pruning-Based Hybrid Neural Network for Automatic Modulation Classification in Cognitive Radio Networks, Journal of Theoretical and Applied Information Technology，2024
+
 
 ### Channel Pruning
 - Channel pruning method for signal modulation recognition deep learning models, IEEE TCCN 2023
@@ -70,6 +71,8 @@
   
 
 ## Manual Structure Design
+
+### other
 - An efficient deep learning model for automatic modulation recognition based on parameter estimation and transformation, IEEE Communications Letters 2021
 - Accuracy-Aware Low-Complexity Deep Learning Models for Automatic Modulation Recognition
 - Lightweight Multi-Channel Gated Recurrent Deep Neural Network for Automatic Modulation Recognition in Spatial Cognitive Radio
@@ -137,6 +140,8 @@
 
 
 ## Quantification
+- Pruning-Based Hybrid Neural Network for Automatic Modulation Classification in Cognitive Radio Networks, Journal of Theoretical and Applied Information Technology，2024
+### Other
 - A Methodology to Design Quantized Deep Neural Networks for Automatic Modulation Recognition
 - Real-time automatic modulation classification
 - A novel training strategy for deep learning model compression applied to automatic modulation classification
