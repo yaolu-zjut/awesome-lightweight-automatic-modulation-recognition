@@ -141,9 +141,11 @@
 
 ## Quantification
 - Pruning-Based Hybrid Neural Network for Automatic Modulation Classification in Cognitive Radio Networks, Journal of Theoretical and Applied Information Technology，2024
+- Edge-Efficient Deep Learning Models for Automatic Modulation Classification: A Performance Analysis, IEEE WCNC 2024
+
 ### Other
 - A Methodology to Design Quantized Deep Neural Networks for Automatic Modulation Recognition
 - Real-time automatic modulation classification
 - A novel training strategy for deep learning model compression applied to automatic modulation classification
 - Real-Time Automatic Modulation Recognition Based on FPGA
-- Edge-Efficient Deep Learning Models for Automatic Modulation Classification: A Performance Analysis, IEEE WCNC 2024
+
