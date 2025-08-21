@@ -27,7 +27,6 @@
 - A Pruning Method Combined with Resilient Training to Improve the Adversarial Robustness of Automatic Modulation Classification Models, Mobile Networks and Applications, 2024
 - Radio signal modulation recognition method based on deep learning model pruning, Applied Sciences, 2022
 - Radar Intra-Pulse Modulation Fast Perception via Adaptive Random Magnitude Channel Pruning and Knowledge Distillation
-- PRUNING-BASED HYBRID NEURAL NETWORK FOR AUTOMATIC MODULATION CLASSIFICATION IN COGNITIVE RADIO NETWORKS
 - Interpretable analysis and pruning of modulation recognition network based on Deep Learning
 - A Mixed Pruning Method for Signal Modulation Recognition Based on Convolutional Neural Network
 - Lightweight Automatic Modulation Classification Method Using Filter Pruning via Geometric Median
