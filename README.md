@@ -30,7 +30,7 @@
 - Radio signal modulation recognition method based on deep learning model pruning, Applied Sciences 2022
 - A Novel Layer Pruning Method Based on Graph Structure of Feature Representations for Specific Emitter Identification, IEEE TCCN 2025
 
-### Mixed Pruning
+### Hybrid Pruning
 - Modulation recognition based on lightweight residual network via hybrid pruning, ICCC 2021
 - A Mixed Pruning Method for Signal Modulation Recognition Based on Convolutional Neural Network, Deep Learning Applications: In Computer Vision, Signals and Networks 2023
 - Fcos: A two-stage recoverable model pruning framework for automatic modulation recognition, arxiv 2025
