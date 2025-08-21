@@ -38,6 +38,7 @@
 
 ## Knowledge Distillation
 ### Single-Teacher Distillation
+- FedBKD: Heterogenous federated learning via bidirectional knowledge distillation for modulation classification in IoT-edge system, JSTSP 2023
 - GLR-SEI: Green and low resource specific emitter identification based on complex networks and fisher pruning, IEEE Transactions on Emerging Topics in Computational Intelligence 2024
 - Adversarial Robustness of Distilled and Pruned Deep Learning-based Wireless Classifiers, IEEE WCNC 2024
 - Edge-Efficient Deep Learning Models for Automatic Modulation Classification: A Performance Analysis, IEEE WCNC 2024
@@ -58,9 +59,6 @@
 - A knowledge distillation strategy for enhancing the adversarial robustness of lightweight automatic modulation classification models, IET Communications 2024
 - Learn to defend: Adversarial multi-distillation for automatic modulation recognition models, TIFS 2024
 - Attention-based adversarial robust distillation in radio signal classifications for low-power IoT devices, IOTJ 2022
-
-### Other
-- FedBKD: Heterogenous federated learning via bidirectional knowledge distillation for modulation classification in IoT-edge system, JSTSP 2023
   
 
 ## Manual Structure Design
