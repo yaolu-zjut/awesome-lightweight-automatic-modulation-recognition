@@ -32,19 +32,9 @@
 
 ### Mixed Pruning
 - Modulation recognition based on lightweight residual network via hybrid pruning, ICCC 2021
+- A Mixed Pruning Method for Signal Modulation Recognition Based on Convolutional Neural Network, Deep Learning Applications: In Computer Vision, Signals and Networks 2023
 - Fcos: A two-stage recoverable model pruning framework for automatic modulation recognition, arxiv 2025
 
-### Other
-- A Mixed Pruning Method for Signal Modulation Recognition Based on Convolutional Neural Network
-- Automatic modulation recognition for radar signals via multi-branch ACSE networks
-- Automatic Modulation Recognition for Radar Signal Based on Multi-level and Multi-scale Feature
-- Ultralight convolutional neural network for automatic modulation classification in internet of unmanned aerial vehicles
-- Multilevel adaptive wavelet decomposition network based automatic modulation recognition: Exploiting time-frequency multiscale correlations
-- A lightweight decentralized-learning-based automatic modulation classification method for resource-constrained edge devices
-- Lightweight network and model aggregation for automatic modulation classification in wireless communications
-- Decentralized automatic modulation classification method based on lightweight neural network
-- Lightweight deep learning model for automatic modulation classification in cognitive radio networks
-- MCNet: An efficient CNN architecture for robust automatic modulation classification
 
 ## Knowledge Distillation
 
@@ -105,7 +95,15 @@
 - Lightweight network design based on ResNet structure for modulation recognition
 - Multi-channel convolutional distilled transformer for automatic modulation classification
 - A lightweight deep learning architecture for automatic modulation classification of wireless internet of things
-- 
+- Automatic modulation recognition for radar signals via multi-branch ACSE networks
+- Automatic Modulation Recognition for Radar Signal Based on Multi-level and Multi-scale Feature
+- Ultralight convolutional neural network for automatic modulation classification in internet of unmanned aerial vehicles
+- Multilevel adaptive wavelet decomposition network based automatic modulation recognition: Exploiting time-frequency multiscale correlations
+- A lightweight decentralized-learning-based automatic modulation classification method for resource-constrained edge devices
+- Lightweight network and model aggregation for automatic modulation classification in wireless communications
+- Decentralized automatic modulation classification method based on lightweight neural network
+- Lightweight deep learning model for automatic modulation classification in cognitive radio networks
+- MCNet: An efficient CNN architecture for robust automatic modulation classification
 
 
 ## Neural Architecture Search
