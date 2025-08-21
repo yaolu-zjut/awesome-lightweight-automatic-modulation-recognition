@@ -14,6 +14,8 @@
 ### Channel Pruning
 - Channel pruning method for signal modulation recognition deep learning models, IEEE TCCN 2023
 - LightAMC: Lightweight Automatic Modulation Classification via Deep Learning and Compressive Sensing, IEEE TVT 2020
+- An efficient specific emitter identification method based on complex-valued neural networks and network compression, IEEE Journal on Selected Areas in Communications 2021
+
 
 ### Layer Pruning
 - A generic layer pruning method for signal modulation recognition deep learning models, IEEE TCCN 2024
@@ -43,7 +45,6 @@
 - A lightweight decentralized-learning-based automatic modulation classification method for resource-constrained edge devices
 - Lightweight network and model aggregation for automatic modulation classification in wireless communications
 - Decentralized automatic modulation classification method based on lightweight neural network
-- An efficient specific emitter identification method based on complex-valued neural networks and network compression
 - Lightweight deep learning model for automatic modulation classification in cognitive radio networks
 - MCNet: An efficient CNN architecture for robust automatic modulation classification
 
@@ -52,6 +53,7 @@
 
 ### Single-Teacher Distillation
 - Adversarial Robustness of Distilled and Pruned Deep Learning-based Wireless Classifiers, IEEE WCNC 2024
+- An efficient specific emitter identification method based on complex-valued neural networks and network compression, IEEE Journal on Selected Areas in Communications 2021
 - Automatic Modulation Classification with Neural Networks via Knowledge Distillation, Electronics 2024
 - A knowledge distillation strategy for enhancing the adversarial robustness of lightweight automatic modulation classification models, IET Communications 2024
 - Research on automatic modulation recognition of shortwave signals in few‐shot scenarios based on knowledge distillation, IET Communications 2025
