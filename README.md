@@ -4,7 +4,7 @@
 ### Weight Pruning
 - An ensemble automatic modulation classification model with weight pruning and data preprocessing, University of British Columbia, Doctoral dissertation 2020
 - An Efficient Federated Automatic Modulation Recognition Scheme with Adaptive Model Pruning, IEEE Sensors Journal, 2025
-- 
+- Automatic modulation recognition: An FPGA implementation, IEEE Communications Letters 2022
 
 - 
 
