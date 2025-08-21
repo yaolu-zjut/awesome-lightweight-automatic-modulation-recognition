@@ -2,8 +2,10 @@
 
 ## Model Pruning
 ### Weight Pruning
-- An ensemble automatic modulation classification model with weight pruning and data preprocessing
+- An ensemble automatic modulation classification model with weight pruning and data preprocessing, University of British Columbia, Doctoral dissertation 2020
 - An Efficient Federated Automatic Modulation Recognition Scheme with Adaptive Model Pruning, IEEE Sensors Journal, 2025
+- 
+
 - 
 
 ### Channel Pruning
