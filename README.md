@@ -21,6 +21,7 @@
 - Radar Intra-Pulse Modulation Fast Perception via Adaptive Random Magnitude Channel Pruning and Knowledge Distillation, IEEE Signal Processing Letters 2025
 - Interpretable Analysis and Pruning of Modulation Recognition Network Based on Deep Learning, ICDSP 2022
 - Lightweight Automatic Modulation Classification Method Using Filter Pruning via Geometric Median, RICAI 2024
+- GLR-SEI: Green and low resource specific emitter identification based on complex networks and fisher pruning, IEEE Transactions on Emerging Topics in Computational Intelligence 2024
 
 
 ### Layer Pruning
@@ -32,14 +33,12 @@
 ### Other
 - Radio signal modulation recognition method based on deep learning model pruning, Applied Sciences, 2022
 - A Mixed Pruning Method for Signal Modulation Recognition Based on Convolutional Neural Network
-- Edge-Enabled Modulation Classification in Internet of Underwater Things Based on Network Pruning and Ensemble Learning
 - Automatic modulation recognition for radar signals via multi-branch ACSE networks
 - Automatic Modulation Recognition for Radar Signal Based on Multi-level and Multi-scale Feature
 - Deep neural network goes lighter: A case study of deep compression techniques on automatic RF modulation recognition for Beyond 5G networks
 - A Novel Layer Pruning Method Based on Graph Structure of Feature Representations for Specific Emitter Identification
 - Ultralight convolutional neural network for automatic modulation classification in internet of unmanned aerial vehicles
 - Multilevel adaptive wavelet decomposition network based automatic modulation recognition: Exploiting time-frequency multiscale correlations
-- GLR-SEI: Green and low resource specific emitter identification based on complex networks and fisher pruning
 - A lightweight decentralized-learning-based automatic modulation classification method for resource-constrained edge devices
 - Lightweight network and model aggregation for automatic modulation classification in wireless communications
 - Decentralized automatic modulation classification method based on lightweight neural network
@@ -50,6 +49,7 @@
 
 
 ### Single-Teacher Distillation
+- GLR-SEI: Green and low resource specific emitter identification based on complex networks and fisher pruning, IEEE Transactions on Emerging Topics in Computational Intelligence 2024
 - Adversarial Robustness of Distilled and Pruned Deep Learning-based Wireless Classifiers, IEEE WCNC 2024
 - Radar Intra-Pulse Modulation Fast Perception via Adaptive Random Magnitude Channel Pruning and Knowledge Distillation, IEEE Signal Processing Letters 2025
 - An efficient specific emitter identification method based on complex-valued neural networks and network compression, IEEE Journal on Selected Areas in Communications 2021
