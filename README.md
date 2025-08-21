@@ -29,9 +29,7 @@
 - Fcos: A two-stage recoverable model pruning framework for automatic modulation recognition, arxiv 2025
 
 ### Other
-- An Efficient Federated Automatic Modulation Recognition Scheme with Adaptive Model Pruning, IEEE Sensors Journal 2025
 - Radio signal modulation recognition method based on deep learning model pruning, Applied Sciences, 2022
-- Radar Intra-Pulse Modulation Fast Perception via Adaptive Random Magnitude Channel Pruning and Knowledge Distillation
 - Interpretable analysis and pruning of modulation recognition network based on Deep Learning
 - A Mixed Pruning Method for Signal Modulation Recognition Based on Convolutional Neural Network
 - Lightweight Automatic Modulation Classification Method Using Filter Pruning via Geometric Median
